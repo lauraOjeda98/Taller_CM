@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395052050541",
+    "project_id": "actividad1-firebase",
+    "storage_bucket": "actividad1-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395052050541:android:35882b5c202721323bf764",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395052050541-beatshh3rem4m5qucdg2o66a43rfq102.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzPw2ytmG9m7pzJHMDZqjRf6f5h3wMW4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395052050541-beatshh3rem4m5qucdg2o66a43rfq102.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
